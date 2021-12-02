@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafaqs
+- 👋 Hi, I’m Rafael Queiros
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C# and WEB API
 - 💞️ I’m looking to collaborate on ...
