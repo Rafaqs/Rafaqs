@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Queiros
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C# and WEB API
+- 👀 I’m interested in software automation
+- 🌱 I’m currently learning JavaScript and Cypress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
